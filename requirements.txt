@@ -1,0 +1,7 @@
+pip install pyttsx3==2.90
+pip install SpeechRecognition==3.8.1
+pip install wikipedia==1.4.0
+pip install pywhatkit==5.3
+pip install pyautogui==0.9.52
+pip install pyjokes==1.0.0
+pip install pyaudio
