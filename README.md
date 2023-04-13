@@ -48,7 +48,7 @@ It is a function used to tell today date. When this function is called, it will 
 ### __Wikipedia()__ function:
 In this code, this function is uses Wikipedia API to search for and retrieve information from Wikipedia pages based on a user's query.
 
-### __Wishme__ function :
+### __Wishme__() function :
 the wishme() function is a custom function that doesn't take any arguments. The purpose of this function is to wish the user based on the current time.
 
 ### __Take_command()__ function:
